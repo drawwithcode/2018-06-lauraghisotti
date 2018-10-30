@@ -1,0 +1,33 @@
+{
+  "number" : 3,
+  "people" : [
+
+    {
+      "name" : "KFC",
+      "country" : "USA",
+      "since" : "1952",
+      "restaurants" : 204,
+      "specialty" : "Fried chicken",
+      "price" : "$$",
+      "text" : 20
+    },
+    {
+      "name" : "Five guys",
+      "country" : "USA",
+      "since" : "1986",
+      "restaurants" : 15,
+      "specialty" : "Burgers and fries",
+      "price" : "$$$",
+      "text" : 10
+    },
+    {
+      "name" : "McDonald's",
+      "country" : "USA",
+      "since" : "1940",
+      "restaurants" : 372,
+      "specialty" : "BigMac",
+      "price" : "$",
+      "text" : 30
+    }
+  ]
+}
